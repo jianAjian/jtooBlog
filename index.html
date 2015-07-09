@@ -13,7 +13,7 @@ comments: false
     <div class="post-card">
         <div class="head"><a href="{{ post.url }}"><span class="title">{{ post.title }}</span></a><span class="date">{{ post.date | date:"%Y-%m-%d" }}</span></div>
         <div class="content">{{ post.excerpt }}</div>
-        <div class="more text-right"><a href="{{ post.url }}">继续阅读全文</a></div>
+        <div class="more text-right"><a href="{{site.baseurl}}{{ post.url }}">继续阅读全文</a></div>
     </div>
     {% endfor %}
 </div>
