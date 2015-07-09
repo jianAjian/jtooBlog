@@ -77,7 +77,7 @@ defaults:
             category: "design"
     - 
         scope:
-            path: "vim"
+            path: "test"
         values:
             category: "vim"
     - 
