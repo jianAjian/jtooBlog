@@ -9,6 +9,7 @@ excerpt_separator: "\n\n\n\n"
 site_name: kissdata
 site_description: keep it simple &#38; stupid by data | 爱小牛牛，爱生活
 url: http://jianajian.github.io/jtooBlog #<!--   http://blog.kissdata.com-->
+baseurl: http://jianajian.github.io/jtooBlog
 author: haolj
 author_github_url: http://jianajian.github.io/jtooBlog #<!--https://github.com/vincentzhwg-->
 author_email: 295938867@qq.com #<!-- vincentzhwg@gmail.com-->
